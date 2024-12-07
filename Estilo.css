@@ -1,0 +1,35 @@
+*{
+   padding:0px;
+   width: 100;
+   border: 0px;
+   margin: 0px;
+   }
+
+Body{
+   background:rgb(221, 179, 179);
+   font-family: arial, Helvetica, sans-serif;
+   
+  
+   
+}
+header{
+   background:red;
+   height: 100px;
+   width: 100%;
+  
+  
+}
+
+section{
+   background: green;
+   height: 180px;
+   width: 100%;
+     
+}
+
+footer{
+   background: rgb(39, 32, 163);
+   height: 100px;
+   width: 100%;
+  
+}
